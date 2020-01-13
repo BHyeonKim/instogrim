@@ -1,7 +1,9 @@
 @import "reset.css";
 @import "instogrim.css";
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
-@import "friends";
+@import "friends.css";
+@import "board.css";
+@import url('https://fonts.googleapis.com/css?family=Public+Sans&display=swap');
 
 .background-box{
     box-sizing: border-box;

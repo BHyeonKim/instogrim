@@ -9,6 +9,9 @@
     border-radius: 40px;
     z-index: 1;
     background-color: #EDF0F6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .gray-color-box .instogrim{
