@@ -1,0 +1,9 @@
+.friends{
+    margin: 18px 0px;
+    display: flex;
+    justify-content: start;
+}
+
+.friends .friend{
+    margin: 0px 10px;
+}

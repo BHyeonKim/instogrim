@@ -1,5 +1,7 @@
 @import "reset.css";
 @import "instogrim.css";
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import "friends";
 
 .background-box{
     box-sizing: border-box;
@@ -12,7 +14,7 @@
     position: relative;
     box-sizing: border-box;
     background-color: #B7B51B;
-    height: 600px;
+    height: 800px;
     width: 360px;
     padding-top: 90px;
     padding-left: 40px;
@@ -22,7 +24,7 @@
     position: relative;
     box-sizing: border-box;
     background-color: #EDF0F6;
-    height: 600px;
+    height: 800px;
     width: 720px;
 }
 

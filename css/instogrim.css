@@ -1,0 +1,46 @@
+.sand-color-box .instogrim{
+    position: absolute;
+    box-sizing: border-box;
+    height: 700px;
+    width: 340px;
+    top: 50px;
+    left: 164px;
+    border: 8px solid #15083A;
+    border-radius: 40px;
+    z-index: 1;
+    background-color: #EDF0F6;
+}
+
+.gray-color-box .instogrim{
+    position: absolute;
+    box-sizing: border-box;
+    height: 700px;
+    width: 340px;
+    top: 50px;
+    right: 164px;
+    border: 8px solid #15083A;
+    border-radius: 40px;
+    z-index: 1;
+    background-color: #EDF0F6;
+}
+
+.instogrim .top-bar{
+    margin-top: 30px;
+    display: flex;
+}
+
+.top-bar .logo{
+    margin-left: 15px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.top-bar .icons{
+    box-sizing: border-box;
+    margin-left: 150px;
+    height: 25px;
+    width: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
